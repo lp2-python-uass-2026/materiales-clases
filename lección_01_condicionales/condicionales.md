@@ -15,9 +15,11 @@ Dependen de una operación lógica
 - or
 - not
 ## Sintaxis
+```python
 if <condición lógica>:
-    print("bloque If")
+   print("bloque If")
 elif <condición lógica>:
-    print("bloque Elif")
+   print("bloque Elif")
 else:
-    print("bloque Else")
+   print("bloque Else")
+```
