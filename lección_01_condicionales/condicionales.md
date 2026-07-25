@@ -16,4 +16,13 @@ Dependen de una operación lógica
 - not
 ## Sintaxis
 if <condición lógica>:
-  print("bloque If")
+
+  print("bloque If")
+
+elif <condición lógica>:
+
+  print("bloque Elif")
+
+else: 
+
+  print("bloque Else")
