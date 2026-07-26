@@ -1,8 +1,8 @@
-# Ejercicios de Ciclos For
+# Ejercicios de Ciclos While
 
 ## Ejercicio 1: Contador ascendente
 
-Solicite un número entero positivo e imprima todos los números desde 1 hasta dicho número utilizando un ciclo `for`.
+Solicite un número entero positivo e imprima todos los números desde 1 hasta dicho número utilizando un ciclo `while`.
 
 ### Ejemplo
 
@@ -24,9 +24,13 @@ Solicite un número entero positivo e imprima todos los números desde 1 hasta d
 
 ---
 
-## Ejercicio 2: Suma de números naturales
+## Ejercicio 2: Suma acumulada
 
-Solicite un número entero positivo N y calcule la suma de todos los números desde 1 hasta N.
+Solicite números al usuario y acumule la suma.
+
+El programa debe finalizar cuando el usuario ingrese el valor 0.
+
+Al finalizar, mostrar la suma total.
 
 ### Ejemplo
 
@@ -34,53 +38,66 @@ Solicite un número entero positivo N y calcule la suma de todos los números de
 
 ```text
 5
+8
+2
+0
 ```
 
 **Salida**
 
 ```text
-La suma es: 15
+Suma total: 15
 ```
 
 ---
 
-## Ejercicio 3: Tabla de multiplicar
+## Ejercicio 3: Validación de contraseña
 
-Solicite un número entero e imprima su tabla de multiplicar del 1 al 10 utilizando un ciclo `for`.
+Solicite una contraseña al usuario.
+
+Mientras la contraseña ingresada sea diferente de:
+
+```text
+python123
+```
+
+debe volver a solicitarla.
+
+Cuando la contraseña sea correcta, mostrar:
+
+```text
+Acceso concedido
+```
 
 ### Ejemplo
 
 **Entrada**
 
 ```text
-7
+1234
+admin
+python123
 ```
 
 **Salida**
 
 ```text
-7 x 1 = 7
-7 x 2 = 14
-7 x 3 = 21
-7 x 4 = 28
-7 x 5 = 35
-7 x 6 = 42
-7 x 7 = 49
-7 x 8 = 56
-7 x 9 = 63
-7 x 10 = 70
+Acceso concedido
 ```
 
 ---
 
 ## Ejercicio 4: Control de asistencia
 
-Solicite la cantidad de estudiantes presentes en cada una de las 5 clases de una semana.
+Solicite la cantidad de estudiantes presentes en cada clase.
 
-Utilizando un ciclo `for`, calcule e imprima:
+El ingreso finalizará cuando el usuario introduzca el valor -1.
 
-- Total de asistencias de la semana.
-- Promedio de asistencia por clase.
+Al finalizar, mostrar:
+
+- Total de asistencias registradas.
+- Cantidad de clases ingresadas.
+- Promedio de asistencia.
 
 ### Ejemplo
 
@@ -91,27 +108,28 @@ Utilizando un ciclo `for`, calcule e imprima:
 24
 27
 23
-26
+-1
 ```
 
 **Salida**
 
 ```text
-Total de asistencias: 125
-Promedio de asistencia: 25.0
+Total de asistencias: 99
+Cantidad de clases: 4
+Promedio de asistencia: 24.75
 ```
 
 ---
 
 ## Ejercicio 5: Caja registradora
 
-Solicite la cantidad de productos comprados.
+Solicite el precio de los productos comprados.
 
-Luego, mediante un ciclo `for`, solicite el precio de cada producto.
+El ingreso finalizará cuando el usuario ingrese 0.
 
-Al finalizar, mostrar:
+Al finalizar mostrar:
 
-- Total de productos.
+- Cantidad de productos.
 - Monto total de la compra.
 
 ### Ejemplo
@@ -119,10 +137,10 @@ Al finalizar, mostrar:
 **Entrada**
 
 ```text
-3
 15000
 22000
 18000
+0
 ```
 
 **Salida**
@@ -136,21 +154,20 @@ Total a pagar: 55000
 
 ## Desafío (Opcional)
 
-Solicite un número entero positivo N e imprima un cuadrado de asteriscos de tamaño N × N utilizando ciclos `for`.
+Solicite un número entero positivo.
+
+Utilizando un ciclo `while`, calcule e imprima su factorial.
 
 ### Ejemplo
 
 **Entrada**
 
 ```text
-4
+5
 ```
 
 **Salida**
 
 ```text
-****
-****
-****
-****
+Factorial: 120
 ```
