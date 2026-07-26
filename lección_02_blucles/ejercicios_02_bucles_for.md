@@ -72,19 +72,51 @@ Cantidad de vocales: 5
 ---
 
 ## Ejercicio 5: Triángulo de asteriscos
+## Ejercicio 3: Tabla de multiplicar
 
-Solicite un número entero positivo y genere un triángulo de asteriscos.
+Solicite un número entero e imprima su tabla de multiplicar del 1 al 10 utilizando un ciclo `for`.
 
 ### Ejemplo
 
-Entrada:
+**Entrada:**
 
+```text
+7
+```
+
+**Salida:**
+
+```text
+7 x 1 = 7
+7 x 2 = 14
+7 x 3 = 21
+7 x 4 = 28
+7 x 5 = 35
+7 x 6 = 42
+7 x 7 = 49
+7 x 8 = 56
+7 x 9 = 63
+7 x 10 = 70
+```
+
+## Ejercicio 5: Triángulo de asteriscos
+
+Solicite un número entero positivo y genere un triángulo de asteriscos utilizando un ciclo `for`.
+
+### Ejemplo
+
+**Entrada:**
+
+```text
 5
+```
 
-Salida:
+**Salida:**
 
+```text
 *
 **
 ***
 ****
 *****
+```
