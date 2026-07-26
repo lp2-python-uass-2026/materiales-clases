@@ -3,12 +3,9 @@ Los ciclos FOR son una estructura de control cíclica que permite iterar sobre o
 
 ## Sintaxis
 ```python
-if <condición lógica>:
-   print("bloque If")
-elif <condición lógica>:
-   print("bloque Elif")
-else:
-   print("bloque Else")
+for elemento in objeto_iterable:
+    print(elemento)
+bloque de instrucciones fuera del for
 ```
 ## Instrucciones para modificar el flujo en FOR:
 - Break: se utiliza para finalizar el bucle, cuando se cumpla una condición
