@@ -11,5 +11,5 @@ while <condición lógica>:
   bloque de instrucciones dentro del while
   variar la condición
 bloque de instrucciones fuera del while
-
+```
 **Nota**: La variable o las variables que aparezcan en la condición se suelen llamar *variables de control*. Las variables de control deben definirse antes del bucle while y modificarse en el bucle
