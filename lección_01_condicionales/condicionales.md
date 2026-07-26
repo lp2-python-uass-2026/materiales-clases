@@ -1,7 +1,7 @@
 # Condicionales en Python
 
-## Control de flujo
-Instrucciones que se ejecutan al cumplirse una condición.
+## Estructuras condicionales (control de flujo)
+Las estructuras condicionales permiten ejecutar diferentes bloques de código según una condición.
 Dependen de una operación lógica
 - Igual == 
 - Diferente !=
