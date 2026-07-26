@@ -1,4 +1,4 @@
-# Ciclos FOR
+# Ciclos `for`
 Los ciclos `for` son una estructura de control cíclica que permite iterar sobre objetos de diferente tipo (listas, tuplas, set o conjuntos, diccionarios). En cada paso de la iteración se tiene en cuenta a un único elemento del objeto iterable
 
 ## Sintaxis
