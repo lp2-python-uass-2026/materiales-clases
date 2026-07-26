@@ -7,5 +7,8 @@ A diferencia del ciclo `for`, que se utiliza cuando se conoce la cantidad de rep
 ### Sintaxis
 
 ```python
-while condicion:
-    # instrucciones
+while <condición lógica>:
+  bloque de instrucciones
+  dentro del while
+  variar la condición
+bloque de instrucciones fuera del while
