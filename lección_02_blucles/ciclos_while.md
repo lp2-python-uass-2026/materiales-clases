@@ -1,4 +1,4 @@
-# Ciclos `while` en Python
+# Ciclos `WHILE` en Python
 
 El ciclo `while` permite repetir un bloque de instrucciones mientras una condición sea verdadera.
 
@@ -8,7 +8,6 @@ A diferencia del ciclo `for`, que se utiliza cuando se conoce la cantidad de rep
 
 ```python
 while <condición lógica>:
-  bloque de instrucciones
-  dentro del while
+  bloque de instrucciones dentro del while
   variar la condición
 bloque de instrucciones fuera del while
