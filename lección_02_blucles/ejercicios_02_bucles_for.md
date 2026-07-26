@@ -6,17 +6,21 @@ Solicite un número entero positivo e imprima todos los números desde 1 hasta d
 
 ### Ejemplo
 
-Entrada:
+**Entrada**
 
+```text
 5
+```
 
-Salida:
+**Salida**
 
+```text
 1
 2
 3
 4
 5
+```
 
 ---
 
@@ -26,13 +30,17 @@ Solicite un número entero positivo N y calcule la suma de todos los números de
 
 ### Ejemplo
 
-Entrada:
+**Entrada**
 
+```text
 5
+```
 
-Salida:
+**Salida**
 
+```text
 La suma es: 15
+```
 
 ---
 
@@ -42,49 +50,13 @@ Solicite un número entero e imprima su tabla de multiplicar del 1 al 10 utiliza
 
 ### Ejemplo
 
-Entrada:
-
-7
-
-Salida:
-
-7 x 1 = 7
-7 x 2 = 14
-...
-7 x 10 = 70
-
----
-
-## Ejercicio 4: Contador de vocales
-
-Solicite una palabra o frase e indique cuántas vocales contiene utilizando un ciclo `for`.
-
-### Ejemplo
-
-Entrada:
-
-Programacion
-
-Salida:
-
-Cantidad de vocales: 5
-
----
-
-## Ejercicio 5: Triángulo de asteriscos
-## Ejercicio 3: Tabla de multiplicar
-
-Solicite un número entero e imprima su tabla de multiplicar del 1 al 10 utilizando un ciclo `for`.
-
-### Ejemplo
-
-**Entrada:**
+**Entrada**
 
 ```text
 7
 ```
 
-**Salida:**
+**Salida**
 
 ```text
 7 x 1 = 7
@@ -99,19 +71,41 @@ Solicite un número entero e imprima su tabla de multiplicar del 1 al 10 utiliza
 7 x 10 = 70
 ```
 
+---
+
+## Ejercicio 4: Contador de vocales
+
+Solicite una palabra o frase e indique cuántas vocales contiene utilizando un ciclo `for`.
+
+### Ejemplo
+
+**Entrada**
+
+```text
+Programacion
+```
+
+**Salida**
+
+```text
+Cantidad de vocales: 5
+```
+
+---
+
 ## Ejercicio 5: Triángulo de asteriscos
 
 Solicite un número entero positivo y genere un triángulo de asteriscos utilizando un ciclo `for`.
 
 ### Ejemplo
 
-**Entrada:**
+**Entrada**
 
 ```text
 5
 ```
 
-**Salida:**
+**Salida**
 
 ```text
 *
