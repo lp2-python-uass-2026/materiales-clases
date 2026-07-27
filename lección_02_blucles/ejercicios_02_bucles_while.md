@@ -149,23 +149,6 @@ Al finalizar mostrar:
 Productos comprados: 3
 Total a pagar: 55000
 ```
-
----
-
-## Desafío (Opcional)
-
-Solicite un número entero positivo.
-
-Utilizando un ciclo `while`, calcule e imprima su factorial.
-
-### Ejemplo
-
-**Entrada**
-
-```text
-5
-```
-
 **Salida**
 
 ```text
