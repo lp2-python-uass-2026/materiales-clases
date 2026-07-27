@@ -10,10 +10,10 @@ Al finalizar esta lección el estudiante será capaz de:
 
 ## Material de estudio
 
-- [ciclos_for.md
-- [ejercicios_02_bucles_for.md]
-- [ciclos_while.md]
-- [ejercicios_02_bucles_while.md]
+- ciclos_for.md
+- ejercicios_02_bucles_for.md
+- ciclos_while.md
+- ejercicios_02_bucles_while.md
 
 ## Ruta sugerida
 
