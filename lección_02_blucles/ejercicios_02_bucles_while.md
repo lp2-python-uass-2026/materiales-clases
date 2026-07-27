@@ -149,8 +149,3 @@ Al finalizar mostrar:
 Productos comprados: 3
 Total a pagar: 55000
 ```
-**Salida**
-
-```text
-Factorial: 120
-```
