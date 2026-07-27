@@ -26,7 +26,7 @@ Al finalizar esta lección serás capaz de:
 
 ### 1. Teoría
 
-- ./condicionales.md
+- condicionales.md
 
 ### 2. Práctica
 
