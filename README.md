@@ -1,3 +1,3 @@
 # Prueba
 
-- lección_01_condicionales/condicionales.md
+- [Condicionales](lección_/condicionales.md
