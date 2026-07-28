@@ -1,3 +1,3 @@
 # Prueba
 
-[Google/www.google.com
+- https://www.google.com
