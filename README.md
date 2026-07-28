@@ -1,20 +1,11 @@
-# materiales-clases
-Repositorio para compartir materiales y archivos que vayamos generando en las clases
+# 📚 Lenguaje de Programación II (LP2)
 
-# Curso de Python
+Bienvenidos al repositorio de materiales, es un espacio creado para que puedan tener acceso a lo que vayamos desarrollando durante el semestre
 
-## Contenido
+## Unidades
 
-### Lección 01 - Condicionales
-- if
-- elif
-- else
+- Lección 01: Condicionales
+- Lección 02: Bucles
+- Lección 03: Funciones
 
-### Lección 02 - Bucles
-- for
-- while
-
-### Lección 03 - Funciones
-- Definición de funciones
-- Parámetros
-- Retorno
+Seleccione una carpeta para acceder al contenido.
