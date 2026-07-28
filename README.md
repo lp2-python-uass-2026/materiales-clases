@@ -3,7 +3,7 @@
 ## Lección 01 - Condicionales
 
 - 📖 [Material teórico](./lecciónondicionales.md
-- 📝 [Ejercicios](./lección_01_condicionales/ejercicios_01s.md
+- 📝 lección_01_condicionales/ejercicios_01_condicionales.md
 
 ## Lección 02 - Bucles
 
