@@ -1,29 +1,17 @@
 # 📚 Lenguaje de Programación II (LP2)
 
-Repositorio oficial de materiales de clase.
+## Lección 01 - Condicionales
 
-## Contenido
+- 📖 [Material teórico](./lección_01icionales.md
+- 📝 [Ejercicios1_condicionales/ejercicios_01_condicionales.md
 
-### Lección 01 - Condicionales
+## Lección 02 - Bucles
 
-- ./lección_01_condicionales/condicionales.md
-- ./lección_01_condicionales/ejercicios_01_condicionales.md
+- 📖 ./lección_02_bucles/ciclos_for.md
+- 📖 [Ciclos Whilebucles/ciclos_while.md
+- 📝 [Ejercicios For](./lección_02_b02_bucles_for.md
+- 📝 [Ejercicios While](./lección_0202_bucles_while.md
 
-### Lección 02 - Bucles
+## Lección 03 - Funciones
 
-- [Ciclos For](./lección_02_bfor.md
-- [Ciclos While](./lección_02_bucles/ciclos_while.s For](./lección_02_bu2_bucles_for.md
-- [/lección_02_bucles/ejercicios_02_bucles_while.md
-
-### Lección 03 - Funciones
-
-- [Funciones](./lección_/funciones.md
-- [Ejercicios de Funciones](./lección_03_funciones/ejercicios_03_uctura del repositorio
-
-```text
-materiales-clases/
-├── lección_01_condicionales/
-├── lección_02_bucles/
-├── lección_03_funciones/
-└── README.md
-``
+- 📖 [Funciones](./lección_03_funciones/funciones.cción_03_funciones/ejercicios_03_funciones.md
