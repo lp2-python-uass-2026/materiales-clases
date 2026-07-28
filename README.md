@@ -19,3 +19,6 @@
 - 📖 [Funciones03_funciones/funciones.md
 - 📝 [Ejercicios](./lección_03_funciones3_funciones.md
 
+# Prueba
+
+- lección_01_condicionales/
