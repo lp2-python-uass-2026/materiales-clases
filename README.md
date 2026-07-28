@@ -1,17 +1,20 @@
 # materiales-clases
 Repositorio para compartir materiales y archivos que vayamos generando en las clases
-# Lenguaje de Programación 2
 
-## Docente
-Enrique Manuel Samudio Ruiz Diaz
-
-## Lenguaje
-Python
+# Curso de Python
 
 ## Contenido
-- Condicionales
-- Bucles
-- Funciones
-- Archivos
-- Programación Orientada a Objetos
-- Excepciones
+
+### Lección 01 - Condicionales
+- if
+- elif
+- else
+
+### Lección 02 - Bucles
+- for
+- while
+
+### Lección 03 - Funciones
+- Definición de funciones
+- Parámetros
+- Retorno
