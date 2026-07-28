@@ -1,20 +1,15 @@
-# materiales-clases
-Repositorio para compartir materiales y archivos que vayamos generando en las clases de **Lenguaje de Programación II**
+# Lenguaje de Programación II
 
-# Curso de Python
+## Lecciones
 
-## Contenido
+### Unidad 1
 
-### Lección 01 - Condicionales
-- if
-- elif
-- else
+- [/lección_01_condicionales/
 
-### Lección 02 - Bucles
-- for
-- while
+### Unidad 2
 
-### Lección 03 - Funciones
-- Definición de funciones
-- Parámetros
-- Retorno
+- ./lección_02_bucles/
+
+### Unidad 3
+
+- [Funciones](./unciones/
