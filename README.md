@@ -4,7 +4,7 @@
 
 ### Unidad 1 - Control de Flujo
 
-- [/lección_01_condicionales/
+<a href="/materiales-clases/leccion_01_condicioanales/2  Lección 01: Condicionales3</a>
 
 ### Unidad 2
 
