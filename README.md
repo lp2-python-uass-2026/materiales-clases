@@ -1,4 +1,4 @@
-# 📚 Lenguaje de Programación II (LP2)
+# 📚 Lenguaje de Programación II (lp2)
 
 Bienvenidos al repositorio de materiales, es un espacio creado para que puedan tener acceso a lo que vayamos desarrollando durante el semestre
 
