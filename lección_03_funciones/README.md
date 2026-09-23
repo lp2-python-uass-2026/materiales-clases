@@ -102,4 +102,4 @@ Al finalizar esta lección podrás crear funciones propias, reutilizar código y
 
 ## Próxima lección
 
-➡️ **Lección 04: JSON**
+➡️ **Lección 04: Manejo de Archivos**
